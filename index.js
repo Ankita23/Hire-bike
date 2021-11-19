@@ -22,8 +22,8 @@ function initMap() {
 
 	var contentString = '<div id="info-window-container">' +
 							'<div class="info-window-title">' + 
-								'<span> Bike </span>' + '<span> <img class="arrow" src="./images/angular_right_arrow.png" alt="arrow"</span>' + '<span> Henry </span>' + '<span> <img class="arrow" src="./images/angular_left_arrow.png" alt="arrow"</span>' +
-								'<span> <img class="bicycle-img" src="./images/bicycle.png" alt="bicycle"</span>' + 
+								'<span> Bike </span>' + '<span> <img class="arrow" src="./angular_right_arrow.png" alt="arrow"</span>' + '<span> Henry </span>' + '<span> <img class="arrow" src="./angular_left_arrow.png" alt="arrow"</span>' +
+								'<span> <img class="bicycle-img" src="./bicycle.png" alt="bicycle"</span>' + 
 							'</div>' +
 							'<div class="info-window-subTitle">This bike is for rent</div>' +
 							'<div class="info-window-content">' +
