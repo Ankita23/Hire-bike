@@ -1,0 +1,66 @@
+.gm-style-iw {
+	width: 350px;
+    padding: 10px;
+}
+
+.gm-style .gm-style-iw-c {
+	border-radius: 16px;
+}
+
+.gm-style-iw .gm-ui-hover-effect {
+	display: none!important;
+}
+
+#info-window-container {
+    width: 300px;
+    margin: 0 auto;
+}
+
+#info-window-container .info-window-title {
+	font-family: sans-serif;
+	font-size: 22px;
+	font-weight: 400;
+	padding: 10px;
+	color: black;
+	margin: 0;
+	border-radius: 2px 2px 0 0;
+}
+#info-window-container .info-window-content {
+	font-size: 13px;
+	line-height: 18px;
+	font-weight: 400;
+	margin-right: 1px;
+	max-height: 140px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+#info-window-container .bicycle-img {
+	width: 26px;
+    height: 17px;
+}
+
+#info-window-container .arrow {
+	width: 12px;
+    height: 13px;
+}
+	
+.info-window-subTitle {
+	font-size: 14px;
+	padding: 5px 10px;
+	color: #696666;
+    font-family: sans-serif;
+}
+
+.info-window-button button {
+	border: none;
+    color: white;
+    padding: 11px 17px;
+    text-align: center;
+    text-decoration: none;
+	background-color: #32e1f3;
+    border-radius: 14px;
+	font-size: 10px;
+	float: right;
+	cursor: pointer;
+	outline: none;
+}
